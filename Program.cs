@@ -3,6 +3,7 @@
     {
         public static void Main()
     {
+        //Calculadora simples....
         Console.WriteLine("==============Calculadroa bem simples====");
         Console.WriteLine("Digite o número 1: ");
         int number1 = Convert.ToInt32(Console.ReadLine());
